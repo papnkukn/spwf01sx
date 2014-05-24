@@ -15,4 +15,4 @@ Source code may be used in a Netduino project but not yet tested.
 ![Alt text](/screenshots/config.png?raw=true "Screenshot")
 ![Alt text](/screenshots/files.png?raw=true "Screenshot")
 ![Alt text](/screenshots/system.png?raw=true "Screenshot")
-![Alt text](/screenshots/events.png?raw=true "Screenshot"
+![Alt text](/screenshots/events.png?raw=true "Screenshot")
